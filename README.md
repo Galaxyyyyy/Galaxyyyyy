@@ -1,9 +1,14 @@
 - 👋 Hi, I’m @Galaxyyyyy
-- 👀 I’m interested in javascript (I am a nub but [**@Nishant1500**](https://github.com/Nishant1500/) call me piro) ...
+- 👀 I’m interested in javascript (I am a nub)
 - 🙂 I mostly do [`discord.js`](https://discord.js.org)
 - 🌱 I’m currently learning python for some reason ...
 - 💞️ I’m looking to collaborate on nothing cuz am nub...
 - 📫 How to reach me (it's a secret)...
+
+### Here meet some of my wholesome frens
+- [`Nishant1500`](https://github.com/Nishant1500)
+- [`IamMithani`](https://github.com/MuhammadUsmanMithani)
+- [`xbl`](https://github.com/xbl4z3rr)
 
 ### Here some Github Info About Me! :)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Galaxyyyyy&langs_count=8&layout=compact" atl="My Most Used Languages">
