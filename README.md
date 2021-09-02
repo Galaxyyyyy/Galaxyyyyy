@@ -7,7 +7,7 @@
 
 ### Here meet some of my wholesome frens
 - [`Nishant1500`](https://github.com/Nishant1500)
-- [`IamMithani`](https://github.com/MuhammadUsmanMithani)
+- [`iammithani`](https://github.com/MuhammadUsmanMithani)
 - [`xbl`](https://github.com/xbl4z3rr)
 
 ### Here some Github Info About Me! :)
